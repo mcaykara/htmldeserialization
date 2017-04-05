@@ -1,0 +1,4 @@
+C:\Users\mcayk\Documents\Visual Studio 2017\Projects\HtmlDeserialization\XmlModel\bin\Debug\XmlModel.dll
+C:\Users\mcayk\Documents\Visual Studio 2017\Projects\HtmlDeserialization\XmlModel\bin\Debug\XmlModel.pdb
+C:\Users\mcayk\Documents\Visual Studio 2017\Projects\HtmlDeserialization\XmlModel\obj\Debug\XmlModel.dll
+C:\Users\mcayk\Documents\Visual Studio 2017\Projects\HtmlDeserialization\XmlModel\obj\Debug\XmlModel.pdb

@@ -1,0 +1,8 @@
+C:\Users\mcayk\Documents\Visual Studio 2017\Projects\HtmlDeserialization\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\mcayk\Documents\Visual Studio 2017\Projects\HtmlDeserialization\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\mcayk\Documents\Visual Studio 2017\Projects\HtmlDeserialization\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\mcayk\Documents\Visual Studio 2017\Projects\HtmlDeserialization\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\mcayk\Documents\Visual Studio 2017\Projects\HtmlDeserialization\ConsoleApplication\bin\Debug\XmlModel.dll
+C:\Users\mcayk\Documents\Visual Studio 2017\Projects\HtmlDeserialization\ConsoleApplication\bin\Debug\XmlModel.pdb
+C:\Users\mcayk\Documents\Visual Studio 2017\Projects\HtmlDeserialization\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\mcayk\Documents\Visual Studio 2017\Projects\HtmlDeserialization\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

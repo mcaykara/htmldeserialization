@@ -25,7 +25,7 @@ namespace ConsoleApplication {
             var folder = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
             var path = Path.Combine(folder, fileName);
 
-            return Load<HtmlContent>(path);
+            return load<HtmlContent>(path);
         }
 
 
