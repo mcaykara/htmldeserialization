@@ -71,7 +71,7 @@ namespace ConsoleApplication {
 
 
 
-        public static T Load<T>(string fileName) {
+        public static T load<T>(string fileName) {
             Object rslt;
 
             if (File.Exists(fileName)) {
